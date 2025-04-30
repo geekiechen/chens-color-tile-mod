@@ -1,6 +1,16 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 2025-04-30
+  Changes:
+    - Adjusted files.
+
+    - Added new items: color-concretes.
+
+    - Added optional prerequisite mod: chens-py-sea-block-mod.
+    - Added optional prerequisite mod: chens-py-land-block-mod.
+    - Added optional prerequisite mod: chens-modpack-py-auxiliary-others.
+---------------------------------------------------------------------------------------------------
 Version: 0.1.0
 Date: 2025-04-29
   Changes:
-    - Updated Mod.
----------------------------------------------------------------------------------------------------
+    - Uploaded mod.
